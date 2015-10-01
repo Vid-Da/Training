@@ -1,0 +1,12 @@
+Natela@david007 MINGW64 ~/Training (master)
+$ git diff
+diff --git a/three_doors.txt b/three_doors.txt
+index a67d802..91a455a 100644
+--- a/three_doors.txt
++++ b/three_doors.txt
+@@ -1,2 +1,4 @@
+ You are in a room with three doors
+ Which door will you go through?
++
++I take the first door
+\ No newline at end of file
